@@ -3,6 +3,7 @@
 This project analyzes the performance of the Google Merchandise Store website using Google Analytics and Data Studio to provide insights into user behavior, traffic sources, conversion rates, and revenue. The project also involves building a custom dashboard in Data Studio to visualize key metrics and KPIs, creating an interactive pivot table and a graph to summarize and explore the website data.
 
 **Link to the Dashboard**
+
 1)Google analysis-https://lookerstudio.google.com/embed/reporting/bc08c4e5-844b-4049-9b99-14be6a0109a0/page/p_1k1526zk5c
 
 2)Cohort analysis-https://lookerstudio.google.com/embed/reporting/961d6749-c83d-40e8-b106-dd2e1921e9d9/page/uKYOD
@@ -10,6 +11,7 @@ This project analyzes the performance of the Google Merchandise Store website us
 3)Funnel analysis-https://lookerstudio.google.com/embed/reporting/38327987-5ffb-47aa-bbfe-1355cb591894/page/zFhOD
 
 **Technologies Used**
+
 Google Analytics: Used to collect and analyze website data such as pageviews, sessions, bounce rates, and conversion rates.
 
 Google Data Studio: Used to create a custom dashboard that visualizes website data and enables stakeholders to explore data by different dimensions and measures.
@@ -32,4 +34,5 @@ Optimize dashboard performance: Optimize the dashboard performance by minimizing
 Present findings: Present the dashboard to stakeholders to communicate findings and recommendations for improving the website's user experience and increasing revenue.
 
 **Conclusion**
+
 Through this project, I gained proficiency in using Google Analytics,and Data Studio to analyze website data, build custom dashboards, and provide insights for decision-making. The skills and experiences gained from this project can be applied to future data analysis projects.
